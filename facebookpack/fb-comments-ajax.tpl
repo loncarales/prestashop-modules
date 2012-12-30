@@ -1,0 +1,1 @@
+{l s='Facebook Comments' mod='facebookpack'} (<fb:comments-count href="{$url}"></fb:comments-count>)

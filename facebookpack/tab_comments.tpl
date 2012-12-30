@@ -1,0 +1,1 @@
+<li><a href="#idTab7" id="fb_count" class="idTabHrefShort">{l s='Facebook Comments' mod='facebookpack'} (<fb:comments-count href=http://{$smarty.server.HTTP_HOST}{$smarty.server.REQUEST_URI}></fb:comments-count>)</a></li>

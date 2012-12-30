@@ -1,0 +1,1 @@
+<fb:like {if $fbPack_like_url}href="{$fbPack_like_url}"{/if} send="{$fbPack_like_send}" layout="{$fbPack_like_layout}" width="{$fbPack_like_width}" show_faces="{$fbPack_like_faces}" action="{$fbPack_like_action}" colorscheme="{$fbPack_like_color}" font="{$fbPack_like_font}"></fb:like>

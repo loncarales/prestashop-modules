@@ -1,0 +1,1 @@
+DELETE FROM `PREFIX_hook` WHERE name = 'xmlNamespace';
